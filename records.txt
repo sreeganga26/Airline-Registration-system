@@ -1,0 +1,9 @@
+_______________Garuda Airlines________________
+_______________Ticket__________________________
+________________________________________________
+Customer ID: 1
+Customer Name : cheechu
+Customer Gender : female
+	Description
+Destination		USA
+Flight cost : 		39000
